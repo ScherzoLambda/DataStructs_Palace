@@ -8,4 +8,10 @@
 
 ## Features
 
-  Many of them are to come.
+  - Create and interact with Graphs, Trees and Lists.
+
+  - Order, find, insert am remove itens from your struct.
+
+  - More features soon...
+
+
